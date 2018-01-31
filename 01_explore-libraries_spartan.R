@@ -1,6 +1,6 @@
 
 #' ---
-#' output:html_document
+#' output:md_document
 #' ---
 
 
