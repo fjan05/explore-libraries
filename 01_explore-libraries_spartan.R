@@ -1,11 +1,7 @@
 #' ---
-#' output:md_document
-#' ---
-
-
-#' ---
 #' output:github_document
 #' ---
+
 
 
 #' Which libraries does R search for packages?
