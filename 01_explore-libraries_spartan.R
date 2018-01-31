@@ -1,5 +1,10 @@
 
 #' ---
+#' output:html_document
+#' ---
+
+
+#' ---
 #' output:github_document
 #' ---
 
