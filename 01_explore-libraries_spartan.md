@@ -2,6 +2,7 @@
 ================
 Faguirre
 Wed Jan 31 14:26:17 2018
+## test edit commit error
 
 Which libraries does R search for packages? Installed packages
 
