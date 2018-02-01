@@ -7,4 +7,6 @@ THIS IS A LINE ADDED IN THE BROWSER IN GIT HUB
 
 (test.path=list.files())
 
-###usethis::use_course("rstd.io/forgot_2")
+### usethis::use_course("rstd.io/forgot_2")
+
+### another test
